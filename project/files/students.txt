@@ -1,0 +1,17 @@
+Momo,18.88,2
+Ali,15.57,2
+Marcelle,16.84,2
+Fabienne,10,2
+Moussa,9.44,2
+----------------
+Momo,18.88,2
+Ali,15.57,2
+Marcelle,16.84,2
+Fabienne,10,2
+Moussa,9.44,2
+----------------
+Momo,18.88,2
+Ali,15.57,2
+Marcelle,16.84,2
+Fabienne,10,2
+Moussa,9.44,2
